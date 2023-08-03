@@ -3,3 +3,6 @@
 function addition(x, y) {
     return x + y;
 }
+
+const result = addition(10, 11);
+console.log(result);
