@@ -6,4 +6,4 @@ function stringLength(str) {
 
 const inputString = 'JavaScript gives you superpowers.';
 const length = stringLength(inputString);
-console.log(length);
+console.log(length); // Output: 33
