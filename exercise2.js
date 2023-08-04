@@ -1,0 +1,1 @@
+// Function that takes a string as input and returns its length
