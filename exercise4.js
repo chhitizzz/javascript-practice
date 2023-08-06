@@ -10,6 +10,6 @@ function checkNumber(number) {
     }
 }
 
-console.log(checkNumber(10)); // The number is positive.
-console.log(checkNumber(-5)); // The number is negative.
-console.log(checkNumber(0)); // The number is zero.
+console.log(checkNumber(10)); // Output: The number is positive.
+console.log(checkNumber(-5)); // Output: The number is negative.
+console.log(checkNumber(0)); // Output: The number is zero.
