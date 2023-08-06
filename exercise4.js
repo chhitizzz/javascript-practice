@@ -1,0 +1,1 @@
+// Function that takes a number as input and checks if it is positive, negative, or zero. Return "Positive," "Negative," or "Zero" accordingly.
