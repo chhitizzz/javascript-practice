@@ -7,3 +7,6 @@ function largerNumber(x, y) {
         return 'The larger number is ' + y;
     }
 }
+
+const result = largerNumber(7, 6);
+console.log(result);
