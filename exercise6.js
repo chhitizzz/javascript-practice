@@ -4,5 +4,5 @@ function containsJavaScript(inputString) {
     return inputString.includes("JavaScript");
 }
 
-console.log(containsJavaScript("JavaScript is cool.")); // true
-console.log(containsJavaScript("Python is awesome."));
+console.log(containsJavaScript("JavaScript is cool.")); // Output: true
+console.log(containsJavaScript("Python is awesome.")); // Output: false
