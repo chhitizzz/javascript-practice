@@ -2,7 +2,7 @@
 
 function divisible(number) {
     if (number % 3 && number % 5 == 0) {
-        return number + "is divisible by both 3 and 5";
+        return "The number is divisible by 3 and 5.";
     }
 }
 
