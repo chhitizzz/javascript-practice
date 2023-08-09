@@ -4,4 +4,5 @@ function divisible(number) {
         return number % 3 === 0 && number % 5 === 0;
 }
 
-console.log(divisible(15));
+console.log(divisible(15)); // Output: true
+console.log(divisible(10)); // Output: false
