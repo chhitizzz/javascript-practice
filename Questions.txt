@@ -6,3 +6,4 @@
 4. Function that takes a number as input and checks if it is positive, negative, or zero. Return "Positive," "Negative," or "Zero" accordingly.
 5. Function that takes two numbers as input and returns the larger of the two.
 6. Function that takes a string as input and checks if it contains the word "JavaScript". Return true if it does, false otherwise.
+7. Function that takes a number as input and checks if it is divisible by both 3 and 5. Return true if it is, false otherwise.
