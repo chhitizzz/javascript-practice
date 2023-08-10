@@ -8,5 +8,5 @@ function evenOddComparison(number) {
     }
 } 
 
-console.log(evenOddComparison(2));
-console.log(evenOddComparison(11));
+console.log(evenOddComparison(4)); // Output: The number is even.
+console.log(evenOddComparison(11)); // Output: The number is odd. 
