@@ -7,3 +7,6 @@ function evenOddComparison(number) {
         return 'The number is odd.';
     }
 } 
+
+console.log(evenOddComparison(2));
+console.log(evenOddComparison(11));
