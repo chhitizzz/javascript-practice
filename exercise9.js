@@ -1,0 +1,1 @@
+// Function that takes two strings as input and checks if they are equal. Return true if they are equal, false otherwise
