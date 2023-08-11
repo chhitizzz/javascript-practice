@@ -8,3 +8,4 @@
 6. Function that takes a string as input and checks if it contains the word "JavaScript". Return true if it does, false otherwise.
 7. Function that takes a number as input and checks if it is divisible by both 3 and 5. Return true if it is, false otherwise.
 8. Function that takes a number as input and checks if it is even. If it's even, return "Even," otherwise return "Odd".
+9. Function that takes two strings as input and checks if they are equal. Return true if they are equal, false otherwise.
