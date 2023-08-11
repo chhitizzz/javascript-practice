@@ -4,5 +4,5 @@ function equalStrings(str1, str2) {
     return str1 === str2;
 }
 
-console.log(equalStrings(apple, apple));
-console.log(equalStrings(apple, banana));
+console.log(equalStrings('apple', 'apple'));
+console.log(equalStrings('apple', 'banana'));
