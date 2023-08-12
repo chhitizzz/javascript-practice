@@ -9,3 +9,4 @@
 7. Function that takes a number as input and checks if it is divisible by both 3 and 5. Return true if it is, false otherwise.
 8. Function that takes a number as input and checks if it is even. If it's even, return "Even," otherwise return "Odd".
 9. Function that takes two strings as input and checks if they are equal. Return true if they are equal, false otherwise.
+10. Function that takes a number as input and returns "Fizz" if the number is divisible by 3, "Buzz" if it's divisible by 5, and "FizzBuzz" if it's divisible by both 3 and 5. Otherwise, return the number itself.
