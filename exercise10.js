@@ -12,7 +12,7 @@ function divisibleNumber(number) {
     }
 }
 
-console.log(divisibleNumber(6));
-console.log(divisibleNumber(10));
-console.log(divisibleNumber(15));
-console.log(divisibleNumber(19));
+console.log(divisibleNumber(6)); // Output: Fizz
+console.log(divisibleNumber(10)); // Output: Buzz
+console.log(divisibleNumber(15)); // Output: FizzBuzz
+console.log(divisibleNumber(19)); // Output: 19
