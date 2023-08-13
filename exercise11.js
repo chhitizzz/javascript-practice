@@ -9,3 +9,7 @@ function checkLeapYear(year) {
         return year + ' is not a leap year.';
     }
 }
+
+console.log(checkLeapYear(2000)); 
+console.log(checkLeapYear(2003));
+console.log(checkLeapYear(2008));
