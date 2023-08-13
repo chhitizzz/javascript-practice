@@ -2,14 +2,14 @@
 
 function checkLeapYear(year) {
     if (year % 400 === 0 && year % 100 === 0) {
-        return year + ' is a leap year.';
+        return true;
     } else if (year % 4 === 0 && year % 100 !== 0) {
-        return year + ' is a leap year.';
+        return true;
     } else {
-        return year + ' is not a leap year.';
+        return false;
     }
 }
 
-console.log(checkLeapYear(2000)); // Output: 2000 is a leap year.
-console.log(checkLeapYear(2003)); // Output: 2003 is not a leap year.
-console.log(checkLeapYear(2008)); // Output: 2008 is a leap year.
+console.log(checkLeapYear(2000)); // Output: true
+console.log(checkLeapYear(2003)); // Output: false
+console.log(checkLeapYear(2008)); // Output: true
