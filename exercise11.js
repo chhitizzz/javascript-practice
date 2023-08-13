@@ -10,6 +10,6 @@ function checkLeapYear(year) {
     }
 }
 
-console.log(checkLeapYear(2000)); 
-console.log(checkLeapYear(2003));
-console.log(checkLeapYear(2008));
+console.log(checkLeapYear(2000)); // Output: 2000 is a leap year.
+console.log(checkLeapYear(2003)); // Output: 2003 is not a leap year.
+console.log(checkLeapYear(2008)); // Output: 2008 is a leap year.
