@@ -21,3 +21,7 @@ function countPositiveNegativeZero(numbers) {
         zero: zero
     };
 }
+
+const numbersArray = [4, 2, 0, -1, -5];
+const counts = countPositiveNegativeZero(numbersArray);
+console.log(counts);
