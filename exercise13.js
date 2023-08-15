@@ -10,6 +10,6 @@ function largestOfThreeNumbers(num1, num2, num3) {
     }
 }
 
-console.log(largestOfThreeNumbers(1, 2, 3)); 
-console.log(largestOfThreeNumbers(7, 6, 5)); 
-console.log(largestOfThreeNumbers(10, 11, 9)); 
+console.log(largestOfThreeNumbers(1, 2, 3)); // Output: 3 is the largest number. 
+console.log(largestOfThreeNumbers(7, 6, 5)); // Output: 7 is the largest number.  
+console.log(largestOfThreeNumbers(10, 11, 9)); // Output: 11 is the largest number. 
