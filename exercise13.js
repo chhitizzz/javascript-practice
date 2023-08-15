@@ -1,0 +1,1 @@
+// Function that takes three numbers as input and returns the largest of the three without using the built-in `Math.max()` method
