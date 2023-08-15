@@ -12,3 +12,4 @@
 10. Function that takes a number as input and returns "Fizz" if the number is divisible by 3, "Buzz" if it's divisible by 5, and "FizzBuzz" if it's divisible by both 3 and 5. Otherwise, return the number itself.
 11. Function that takes a year as input and checks if it's a leap year. Return true if it's a leap year, false otherwise.
 12. Function that takes an array of numbers as input and returns the number of positive, negative, and zero values in the array as an object.
+13. Function that takes three numbers as input and returns the largest of the three without using the built-in `Math.max()` method.
