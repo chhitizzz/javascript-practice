@@ -14,3 +14,4 @@
 12. Function that takes an array of numbers as input and returns the number of positive, negative, and zero values in the array as an object.
 13. Function that takes three numbers as input and returns the largest of the three without using the built-in `Math.max()` method.
 14. Program that prints numbers from 1 to 10.
+15. Program that prints even numbers from 1 to 20.
