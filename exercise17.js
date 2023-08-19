@@ -10,4 +10,4 @@ function calculateSum(numbers) {
 
 const numberArray = [10, 20, 30, 40, 50];
 const sum = calculateSum(numberArray);
-console.log(sum);
+console.log(sum); // Output: 150
