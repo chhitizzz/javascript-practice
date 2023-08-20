@@ -5,3 +5,12 @@ const stringArray = ['Hello', 'World', 'JavaScript', 'Python'];
 for (let i = 0; i < stringArray.length; i++) {
     console.log(stringArray[i]);
 }
+
+/* 
+Output: 
+
+Hello
+World 
+JavaScript 
+Python 
+*/
