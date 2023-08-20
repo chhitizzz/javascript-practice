@@ -17,3 +17,4 @@
 15. Program that prints even numbers from 1 to 20.
 16. Function that takes a number as input and prints a multiplication table for that number up to 10.
 17. Function that takes an array of numbers as input and calculates the sum of all the numbers using a loop.
+18. Program that iterates over an array of strings and prints each string to the console.
