@@ -1,0 +1,1 @@
+// Program that iterates over an array of strings and prints each string to the console
