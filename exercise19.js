@@ -14,3 +14,5 @@ function isPrime(number) {
     return true;
 }
 
+console.log(isPrime(7)); // Output: true
+console.log(isPrime(14)); // Output: false
