@@ -5,3 +5,7 @@ const peopleArray = [
     {name: "Bruno", age: 28},
     {name: "Varane", age: 30},
 ];
+
+for (let i = 0; i < peopleArray.length; i++) {
+    console.log(peopleArray[i].name)
+}
