@@ -19,3 +19,4 @@
 17. Function that takes an array of numbers as input and calculates the sum of all the numbers using a loop.
 18. Program that iterates over an array of strings and prints each string to the console.
 19. Function that takes a number as input and checks if it's a prime number using a loop. Return true if it's prime, false otherwise.
+20. Program that iterates over an array of objects representing people (with name and age properties) and prints their names to the console.
