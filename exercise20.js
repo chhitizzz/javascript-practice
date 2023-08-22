@@ -9,3 +9,10 @@ const peopleArray = [
 for (let i = 0; i < peopleArray.length; i++) {
     console.log(peopleArray[i].name)
 }
+
+/* 
+Output:
+Rashford
+Bruno
+Varane
+*/
