@@ -1,0 +1,1 @@
+// Function that takes a string as input and counts the number of occurrences of a specific character using a loop
