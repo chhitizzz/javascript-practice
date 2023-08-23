@@ -12,5 +12,5 @@ function stringOccurrence(inputString, targetCharacter) {
     return count;
 }
 
-console.log(stringOccurrence('manchester united', 'e'));
-console.log(stringOccurrence('kobe bryant', 'b'));
+console.log(stringOccurrence('manchester united', 'e')); // Output: 3
+console.log(stringOccurrence('kobe bryant', 'b')); // Output: 2
