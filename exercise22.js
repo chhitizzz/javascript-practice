@@ -1,0 +1,1 @@
+// Program that iterates over an array of numbers and returns a new array with each number squared
