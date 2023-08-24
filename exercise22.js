@@ -7,4 +7,4 @@ for (let i = 0; i < numbersArray.length; i++) {
     squaredArray.push(numbersArray[i] * numbersArray[i]);
 }
 
-console.log(squaredArray);
+console.log(squaredArray); // Output: [4, 16, 36, 64, 100]
