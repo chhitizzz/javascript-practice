@@ -1,0 +1,1 @@
+// Function that takes a positive integer as input and prints a right-angled triangle of stars (*) with the given height
