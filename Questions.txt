@@ -22,3 +22,4 @@
 20. Program that iterates over an array of objects representing people (with name and age properties) and prints their names to the console.
 21. Function that takes a string as input and counts the number of occurrences of a specific character using a loop.
 22. Program that iterates over an array of numbers and returns a new array with each number squared.
+23. Function that takes a positive integer as input and prints a right-angled triangle of stars (*) with the given height.
