@@ -9,3 +9,5 @@ function printTriangle(height) {
         console.log(row);
     }
 }
+
+printTriangle(6);
