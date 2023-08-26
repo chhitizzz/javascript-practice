@@ -10,4 +10,4 @@ function arrayProduct(numbers) {
 
 const numberArray = [1, 2, 3, 4, 5, 6];
 const product = arrayProduct(numberArray);
-console.log(product); 
+console.log(product); // Output: 720
