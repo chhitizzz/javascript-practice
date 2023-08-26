@@ -23,4 +23,4 @@
 21. Function that takes a string as input and counts the number of occurrences of a specific character using a loop.
 22. Program that iterates over an array of numbers and returns a new array with each number squared.
 23. Function that takes a positive integer as input and prints a right-angled triangle of stars (*) with the given height.
-24. Function that takes an array of numbers as input and returns the sum of all the numbers.
+24. Function that takes an array of numbers as input and returns the product of all the numbers.
