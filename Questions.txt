@@ -24,3 +24,4 @@
 22. Program that iterates over an array of numbers and returns a new array with each number squared.
 23. Function that takes a positive integer as input and prints a right-angled triangle of stars (*) with the given height.
 24. Function that takes an array of numbers as input and returns the product of all the numbers.
+25. Function that takes an array of strings as input and returns a new array with all the strings in uppercase.
