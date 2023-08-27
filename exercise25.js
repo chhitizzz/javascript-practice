@@ -8,3 +8,7 @@ function arrayUppercase(strings) {
     }
     return upperCaseArray;
 }
+
+const strings = ['football', 'basketball', 'cricket'];
+const upperCaseStrings = arrayUppercase(strings);
+console.log(upperCaseStrings);
