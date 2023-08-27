@@ -11,4 +11,4 @@ function arrayUppercase(strings) {
 
 const strings = ['football', 'basketball', 'cricket'];
 const upperCaseStrings = arrayUppercase(strings);
-console.log(upperCaseStrings);
+console.log(upperCaseStrings); // Output: ['FOOTBALL', 'BASKETBALL', 'CRICKET']
