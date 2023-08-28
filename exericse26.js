@@ -14,4 +14,4 @@ function evenNumbers(numbersArray) {
 
 const numbersArray = [5, 10, 15, 20, 25, 30, 35, 40];
 const result = evenNumbers(numbersArray);
-console.log(result); 
+console.log(result); // Output: [10, 20, 30, 40]
