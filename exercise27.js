@@ -10,3 +10,7 @@ function stringsMoreThanFiveChars(stringArray) {
     }
     return count; 
 }
+
+const wordArray = ['apple', 'orange', 'pear', 'banana', 'watermelon'];
+const result = stringsMoreThanFiveChars(wordArray);
+console.log(result);
