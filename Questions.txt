@@ -26,3 +26,4 @@
 24. Function that takes an array of numbers as input and returns the product of all the numbers.
 25. Function that takes an array of strings as input and returns a new array with all the strings in uppercase.
 26. Function that takes an array of numbers as input and returns a new array with only the even numbers.
+27. Function that takes an array of strings as input and returns the number of strings that have more than five characters.
