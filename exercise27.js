@@ -13,4 +13,4 @@ function stringsMoreThanFiveChars(stringArray) {
 
 const wordArray = ['apple', 'orange', 'pear', 'banana', 'watermelon'];
 const result = stringsMoreThanFiveChars(wordArray);
-console.log(result);
+console.log(result); // Output: 3
