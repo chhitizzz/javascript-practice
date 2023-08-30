@@ -13,4 +13,4 @@ function largestNumber(numberArray) {
 
 const numberArray = [12, 18, 6, 30, 24];
 const result = largestNumber(numberArray);
-console.log(result);
+console.log(result); // Output: 30
