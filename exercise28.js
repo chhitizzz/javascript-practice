@@ -10,3 +10,7 @@ function largestNumber(numberArray) {
     }
     return largest;
 }
+
+const numberArray = [12, 18, 6, 30, 24];
+const result = largestNumber(numberArray);
+console.log(result);
