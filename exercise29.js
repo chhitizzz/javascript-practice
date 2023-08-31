@@ -2,5 +2,9 @@
 
 function alphabeticalOrderStrings(stringsArray) {
     const sortedArray = stringsArray.slice().sort();
-    return sortedArray
+    return sortedArray;
 }
+
+const stringsArray = ['football', 'basketball', 'tennis', 'cricket'];
+const result = alphabeticalOrderStrings(stringsArray);
+console.log(result); // Output: [ 'basketball', 'cricket', 'football', 'tennis' ]
