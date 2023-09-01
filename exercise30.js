@@ -4,4 +4,10 @@ function calculateAverage(numbersArray) {
     if (numbersArray === 0) {
         return 0;
     }
+
+    const sum = numbersArray.reduce((acc, num) => acc + num, 0);
+    const average = sum / numbersArray.length;
+
+    return average;
 }
+
