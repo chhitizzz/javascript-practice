@@ -13,4 +13,4 @@ function calculateAverage(numbersArray) {
 
 const numbersArray = [10, 5, 15, 20, 30, 25];
 const result = calculateAverage(numbersArray);
-console.log(result);
+console.log(result); // Output: 17.5
