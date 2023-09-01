@@ -11,3 +11,6 @@ function calculateAverage(numbersArray) {
     return average;
 }
 
+const numbersArray = [10, 5, 15, 20, 30, 25];
+const result = calculateAverage(numbersArray);
+console.log(result);
