@@ -6,8 +6,12 @@ function reverseStrings(stringsArray) {
     for(let i = 0; i < stringsArray.length; i++) {
         const originalString = stringsArray[i];
         const reverseString = originalString.split('').reverse('').join('');
-        reverseArray.push(reverseArray);
+        reverseArray.push(reverseString);
     }
 
     return reverseArray;
 }
+
+const stringsArray = ['hello', 'manchester', 'neeva'];
+const result = reverseStrings(stringsArray);
+console.log(result);
