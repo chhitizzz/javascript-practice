@@ -14,4 +14,4 @@ function reverseStrings(stringsArray) {
 
 const stringsArray = ['hello', 'manchester', 'neeva'];
 const result = reverseStrings(stringsArray);
-console.log(result);
+console.log(result); // Output: [ 'olleh', 'retsehcnam', 'aveen' ]
