@@ -4,8 +4,8 @@ const person = {
     name: "Nivia",
     age: 20,
     city: "Dallas"
-}
+};
 
-console.log(person.name);
-console.log(person.age);
-console.log(person.city);
+console.log(person.name); // Output: Nivia
+console.log(person.age); // Output: 20
+console.log(person.city); // Output: Dallas
