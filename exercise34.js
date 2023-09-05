@@ -3,5 +3,9 @@
 const person = {
     name: "Nivia",
     age: 20,
-    city: Dallas
+    city: "Dallas"
 }
+
+console.log(person.name);
+console.log(person.age);
+console.log(person.city);
