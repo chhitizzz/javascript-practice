@@ -1,0 +1,1 @@
+// Create an object representing a person with properties: name, age, and city
