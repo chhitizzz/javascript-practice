@@ -2,8 +2,8 @@
 
 function personObject(person) {
     if (person && person.name && person.age) {
-        console.log('Name: ${person.name}');
-        console.log('Age: ${person.age}');
+        console.log(`Name: ${person.name}`);
+        console.log(`Age: ${person.age}`);
     } else {
         console.log('Invalid person object. Make sure it has name and age properties.');
     }
@@ -12,3 +12,7 @@ function personObject(person) {
 const person1 = {name: 'Nivia', age: 20};
 const person2 = {name: 'Nivi', age: 21};
 const invalidInput = { };
+
+personObject(person1);
+personObject(person2);
+personObject(invalidInput);
