@@ -1,0 +1,1 @@
+// Function that takes an object (representing a person) as input and prints their name and age to the console
