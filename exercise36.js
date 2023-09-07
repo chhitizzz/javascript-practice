@@ -17,4 +17,10 @@ const booksArray = [
       year: 1949
     }
   ];
-  
+
+console.log(booksArray[0].title);   // Output: "The Catcher in the Rye"
+console.log(booksArray[1].author);  // Output: "Harper Lee"
+
+for (let i = 0; i < booksArray.length; i++) {
+  console.log(booksArray[i].title);
+}
