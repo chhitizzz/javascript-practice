@@ -1,0 +1,1 @@
+// Create an array of objects, each representing a book with properties: title, author, and year.
