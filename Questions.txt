@@ -35,3 +35,4 @@
 33. Function that takes an array of numbers as input and returns a new array with only unique values (no duplicates).
 34. Create an object representing a person with properties: name, age, and city.
 35. Function that takes an object (representing a person) as input and prints their name and age to the console.
+36. Create an array of objects, each representing a book with properties: title, author, and year.
