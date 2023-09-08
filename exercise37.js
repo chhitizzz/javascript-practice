@@ -1,0 +1,1 @@
+// Function that takes an array of book objects as input and returns an array with only the book titles
