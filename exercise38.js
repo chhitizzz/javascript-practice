@@ -1,5 +1,16 @@
 // Function that takes an array of book objects as input and returns the total number of years (sum of years) for all books
 
+function totalYear(booksArray) {
+    let totalYears = 0;
+
+    for (let i = 0; i < booksArray.length; i++) {
+        totalYears += booksArray[i].year;
+    }
+
+    return totalYears;
+}
+
+
 const booksArray = [
     {
       title: "The Catcher in the Rye",
