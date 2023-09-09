@@ -10,7 +10,6 @@ function totalYear(booksArray) {
     return totalYears;
 }
 
-
 const booksArray = [
     {
       title: "The Catcher in the Rye",
@@ -28,3 +27,6 @@ const booksArray = [
       year: 1949
     }
   ];
+
+const result = totalYear(booksArray);
+console.log(result); // Output: 5860
