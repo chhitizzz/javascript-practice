@@ -38,3 +38,4 @@
 36. Create an array of objects, each representing a book with properties: title, author, and year.
 37. Function that takes an array of book objects as input and returns an array with only the book titles.
 38. Function that takes an array of book objects as input and returns the total number of years (sum of years) for all books.
+39. Create an object representing a car with properties: make, model, and year.
