@@ -3,3 +3,12 @@
 function carDetails (car) {
     return `${car.make} ${car.model} ${car.year}`;
 }
+
+const car = {
+    make: 'Toyota',
+    model: 'Corolla',
+    year: 2022
+};
+
+const result = carDetails(car);
+console.log(result); // Output: Toyota Corolla 2022
