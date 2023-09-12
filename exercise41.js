@@ -13,12 +13,12 @@ function countCarsByYear(carsArray, targetYear) {
   }
   
 const carsArray = [
-    { make: "Toyota", model: "Camry", year: 2022 },
-    { make: "Honda", model: "Civic", year: 2022 },
-    { make: "Ford", model: "Focus", year: 2020 },
-    { make: "Chevrolet", model: "Malibu", year: 2022 }
+    { make: "Toyota", model: "Camry", year: 2021 },
+    { make: "Honda", model: "Civic", year: 2023 },
+    { make: "Ford", model: "Focus", year: 2022 },
+    { make: "Chevrolet", model: "Malibu", year: 2023 }
 ];
   
-const targetYear = 2022;
+const targetYear = 2023;
 const numberOfCars = countCarsByYear(carsArray, targetYear);
-console.log(`Number of cars from ${targetYear}: ${numberOfCars}`);
+console.log(`Number of cars from ${targetYear}: ${numberOfCars}`); // Output: Number of cars from 2023: 2
