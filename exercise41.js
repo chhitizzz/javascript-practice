@@ -1,0 +1,1 @@
+// Function that takes an array of car objects as input and returns the number of cars that are from a specific year
