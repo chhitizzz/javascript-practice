@@ -40,3 +40,4 @@
 38. Function that takes an array of book objects as input and returns the total number of years (sum of years) for all books.
 39. Create an object representing a car with properties: make, model, and year.
 40. Function that takes a car object as input and returns a string with the make, model, and year combined (e.g., "Toyota Corolla 2022").
+41. Function that takes an array of car objects as input and returns the number of cars that are from a specific year.
