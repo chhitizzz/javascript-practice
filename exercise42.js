@@ -1,0 +1,1 @@
+// Create an object representing a student with properties: name, age, and grades (an array of numbers)
