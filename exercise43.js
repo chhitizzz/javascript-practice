@@ -1,13 +1,22 @@
 // Function that takes a student object as input and returns their average grade
 
 function averageGrade(student) {
-    const grades = student.grades;
-    if (grades.length === 0) {
+    const grade = student.grades;
+    if (grade.length === 0) {
         return 0;
     }
 
-    const sum = grades.reduce((acc, grades) => acc + grades, 0);
-    const average = sum / grades.length;
+    const sum = grade.reduce((acc, grade) => acc + grade, 0);
+    const average = sum / grade.length;
 
     return average;
 }
+
+const student = {
+    name: "John",
+    age: 21,
+    grades: [81, 75, 62, 54, 48]
+};
+
+const result = averageGrade(student);
+console.log(result); // Output: 64
