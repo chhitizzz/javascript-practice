@@ -1,0 +1,1 @@
+// Function that takes a student object as input and returns their average grade
