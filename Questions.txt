@@ -43,3 +43,4 @@
 41. Function that takes an array of car objects as input and returns the number of cars that are from a specific year.
 42. Create an object representing a student with properties: name, age, and grades (an array of numbers).
 43. Function that takes a student object as input and returns their average grade.
+44. Function that takes two numbers as arguments and returns their sum.
