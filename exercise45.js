@@ -1,0 +1,1 @@
+// Function that calculates the area of a rectangle. The function should take the width and height as parameters and return the area
