@@ -5,4 +5,4 @@ function areaOfRectangle(width, height) {
 }
 
 const result = areaOfRectangle(10, 20);
-console.log("The area of rectangle is " + result);
+console.log("The area of rectangle is " + result); // The area of rectangle is 200
