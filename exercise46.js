@@ -10,3 +10,6 @@ function reverseString(str) {
 
     return joinStr;
 }
+
+result = reverseString("hello");
+console.log(result);
