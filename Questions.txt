@@ -45,3 +45,4 @@
 43. Function that takes a student object as input and returns their average grade.
 44. Function that takes two numbers as arguments and returns their sum.
 45. Function that calculates the area of a rectangle. The function should take the width and height as parameters and return the area.
+46. Function that reverses a given string. For example, "hello" should return "olleh".
