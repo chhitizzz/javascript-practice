@@ -12,4 +12,4 @@ function reverseString(str) {
 }
 
 result = reverseString("hello");
-console.log(result);
+console.log(result); // Output: olleh
