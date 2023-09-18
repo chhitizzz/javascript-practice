@@ -13,3 +13,6 @@ function calculateFactorial(number) {
         return result;
     }
 }
+
+factorialResult = calculateFactorial(5);
+console.log(factorialResult); // Output: 120
