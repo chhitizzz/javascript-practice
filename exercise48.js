@@ -7,3 +7,6 @@ function palindromeCheck (word) {
 
     return newWord === reverseWord;
 }
+
+console.log(palindromeCheck('noon'));
+console.log(palindromeCheck('hello'));
