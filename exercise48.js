@@ -8,5 +8,5 @@ function palindromeCheck (word) {
     return newWord === reverseWord;
 }
 
-console.log(palindromeCheck('noon'));
-console.log(palindromeCheck('hello'));
+console.log(palindromeCheck('noon')); // Output: true
+console.log(palindromeCheck('hello')); // Output: false
