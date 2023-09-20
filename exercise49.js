@@ -4,7 +4,7 @@ function countVowels(str) {
     const vowels = 'aeiouAEIOU';
     let count = 0;
 
-    for(let i = 0; i < str.lenght; i++) {
+    for(let i = 0; i < str.length; i++) {
         if(vowels.includes(str[i])) {
             count++;
         }
@@ -12,3 +12,6 @@ function countVowels(str) {
 
     return count;
 }
+
+console.log(countVowels('Hello World'));
+console.log(countVowels('JavaScript is cool'));
