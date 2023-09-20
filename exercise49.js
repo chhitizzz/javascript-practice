@@ -1,0 +1,1 @@
+// Function that counts the number of vowels in each string
