@@ -13,5 +13,5 @@ function countVowels(str) {
     return count;
 }
 
-console.log(countVowels('Hello World'));
-console.log(countVowels('JavaScript is cool'));
+console.log(countVowels('Hello World')); // Output: 3
+console.log(countVowels('JavaScript is cool')); // Output: 6
