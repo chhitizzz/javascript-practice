@@ -5,4 +5,4 @@ function raisedPower(base, exponent) {
 }
 
 result = raisedPower(2, 2);
-console.log(result);
+console.log(result); // Output: 4
