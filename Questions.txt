@@ -49,3 +49,4 @@
 47. Function to calculate the factorial of a given non-negative integer. The factorial of a non-negative integer `n` is the product of all positive integers less than or equal to `n`.
 48. Function that checks if a given word is a palindrome (reads the same forwards and backwards).
 49. Function that counts the number of vowels in each string.
+50. Function that takes a base and an exponent and returns the result of raising the base to the exponent.
