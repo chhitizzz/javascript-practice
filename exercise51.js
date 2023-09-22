@@ -9,4 +9,4 @@ function maxNumber(num1, num2) {
 }
 
 result = maxNumber(6, 4);
-console.log(result);
+console.log(result); // Output: 6
