@@ -7,3 +7,6 @@ function maxNumber(num1, num2) {
         return num2;
     }
 }
+
+result = maxNumber(6, 4);
+console.log(result);
