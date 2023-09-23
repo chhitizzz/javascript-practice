@@ -9,3 +9,7 @@ function arraySum(numberArray) {
 
     return sum;
 }
+
+const numbers = [10, 20, 30, 40, 50];
+const result = arraySum(numbers);
+console.log(result);
