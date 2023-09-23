@@ -12,4 +12,4 @@ function arraySum(numberArray) {
 
 const numbers = [10, 20, 30, 40, 50];
 const result = arraySum(numbers);
-console.log(result);
+console.log(result); // Output: 150
