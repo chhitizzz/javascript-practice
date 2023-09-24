@@ -14,4 +14,4 @@ function getpositiveNumbers(numbersArray) {
 
 const numbers = [-5, -3, 0, 1, 3, 5];
 const result = getpositiveNumbers(numbers);
-console.log(result);
+console.log(result); // Output: [1, 3, 5]
