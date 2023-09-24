@@ -52,3 +52,4 @@
 50. Function that takes a base and an exponent and returns the result of raising the base to the exponent.
 51. Function that finds the maximum of two numbers.
 52. Function that takes an array of numbers and returns the sum of all the elements.
+53. Function that takes an array of numbers and returns a new array containing only the positive numbers.
