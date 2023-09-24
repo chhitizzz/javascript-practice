@@ -11,3 +11,7 @@ function getpositiveNumbers(numbersArray) {
 
     return positiveNumbers;
 }
+
+const numbers = [-5, -3, 0, 1, 3, 5];
+const result = getpositiveNumbers(numbers);
+console.log(result);
