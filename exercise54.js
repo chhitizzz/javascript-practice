@@ -1,0 +1,1 @@
+// Function that converts the first letter of each word in a sentence to uppercase
