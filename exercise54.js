@@ -14,4 +14,4 @@ function capitalizeFirstLetterOfEachWord(sentence) {
   
 const sentence = "hello world! how are you?";
 const capitalizedSentence = capitalizeFirstLetterOfEachWord(sentence);
-console.log(capitalizedSentence); 
+console.log(capitalizedSentence); // Output: "Hello World! How Are You?"
