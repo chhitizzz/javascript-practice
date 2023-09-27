@@ -55,3 +55,4 @@
 53. Function that takes an array of numbers and returns a new array containing only the positive numbers.
 54. Function that converts the first letter of each word in a sentence to uppercase.
 55. Function that reverses an array.
+56. Function that checks if a given number is prime.
